@@ -7,7 +7,7 @@ export default class App extends Component {
   }
 
   render() {
-    return <h1>Prova del sito nuovo</h1>;
+    return <h1>This is the new main</h1>;
   }
 }
 
